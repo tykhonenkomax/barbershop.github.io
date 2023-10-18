@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03af906c.css",
+    "main.js": "/static/js/main.58c33361.js",
+    "static/media/titlepageMobile.png": "/static/media/titlepageMobile.bbbaf2c1f74ba2d33cd2.png",
+    "static/media/onlineBookingMobile.jpg": "/static/media/onlineBookingMobile.c1902682fc4b410e57ed.jpg",
+    "static/media/titlepage.jpeg": "/static/media/titlepage.ce86cbd971bc2e87a1b6.jpeg",
+    "static/media/onlinebooking.png": "/static/media/onlinebooking.c725bdb0a4f6230c2253.png",
+    "static/media/school.jpg": "/static/media/school.573cb094ad4ab7de2824.jpg",
+    "static/media/speeking.jpg": "/static/media/speeking.c3e63cc796bfd4165dec.jpg",
+    "static/media/face2.jpg": "/static/media/face2.970ce75dabb59a9bee26.jpg",
+    "static/media/chair.jpg": "/static/media/chair.a284ef9803ed2a25e104.jpg",
+    "static/media/logo.png": "/static/media/logo.b6e0fe51e3c1699d9401.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.03af906c.css.map": "/static/css/main.03af906c.css.map",
+    "main.58c33361.js.map": "/static/js/main.58c33361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03af906c.css",
+    "static/js/main.58c33361.js"
+  ]
+}
